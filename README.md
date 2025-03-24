@@ -8,10 +8,11 @@
    * I have no visibility into BrightSpace or the Pluralsight setup, so your first communication should be to your Year Up Project Manager. If they are unable to solve the issue, please reach out to
       * Sabrina Freytag  sabrina-freytag@pluralsight.com
       * Emilie Jones     emilie-jones@pluralsight.com
-        
-# WELCOME!
-* cameras on as much as possible, please (better for you, better for me)
 
+## Two important rules:
+1. if you use AI, USE AI
+2. don't just hit the RUN button on a cell before you have an idea of what the result should be
+   
 # Introductions
 * short but video/audio
 
