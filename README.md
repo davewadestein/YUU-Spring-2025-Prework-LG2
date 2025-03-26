@@ -18,3 +18,7 @@
 
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
+
+## Resources
+* AI
+* https://pythontutor.com/
