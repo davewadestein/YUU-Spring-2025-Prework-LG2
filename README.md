@@ -14,7 +14,8 @@
 
 ## Two important rules:
 1. if you use AI, USE AI
-2. don't just hit the RUN button on a cell before you have an idea of what the result should be
+   * keep asking / reframing the question / reminding AI that you are beginner
+3. don't just hit the RUN button on a cell before you have an idea of what the result should be
 
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
