@@ -6,6 +6,10 @@
 
 ## Pre-Work Evaluation for you to fill out
 * https://www.surveymonkey.com/r/K3XWKXG
+
+## How to get better at coding
+* when you have working code, don't stop, think of another way to do it
+* always try to frame things in terms of English and your brain
   
 ## IMPORTANT
 * Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
